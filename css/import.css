@@ -1,0 +1,6 @@
+/* Importação de arquivos CSS no import.css */
+
+@import url("reset.css");
+@import url("var.css");
+@import url("style.css");
+@import url("footer.css");

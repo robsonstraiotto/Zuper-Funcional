@@ -1,0 +1,41 @@
+#cabecalho {
+    width: 100%;
+    background-color: #2f2f2f;
+    color: #eeeeee;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 200px;
+}
+#cabecalho_logo img {
+    width: 120px;
+}
+.cabecalho-img {
+    width: 30px;
+}
+#cabecalho_division {
+    display: flex;
+    gap: 80px;
+}
+#cabecalho_contato {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.cabecalho-contato-icon {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+.cabecalho-contato-icon p{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+}
+
+#cabecalho_direitos {
+    margin-top: 16px;
+    text-align: center;
+}
